@@ -5,3 +5,5 @@
  - Prompt the user to select a state to predict
  - Run a linear regression model to predict the future state population
  - Visualize past populations and the new predicted population using a bar chart
+
+ This served as my first attempt with many of the libraries, so code is likely unoptimized/bad.
